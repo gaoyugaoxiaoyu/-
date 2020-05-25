@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "Tabs":"../../components/SearchInput/Tabs/Tabs"
+  },
+  "navigationBarTitleText": "我的收藏"
+
+}

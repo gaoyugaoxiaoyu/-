@@ -1,0 +1,17 @@
+@import "./styles/iconfont";
+
+page,view,text,swiper,swiper-item,image,navigator{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+page{
+    /* 定义主题颜色 */
+    --themeColor:#f40;
+    /* 统一字体大小 在375px的情况下，1px=2rpx*/
+    font-size: 28rpx;
+}
+image{
+    width: 100%;
+}
